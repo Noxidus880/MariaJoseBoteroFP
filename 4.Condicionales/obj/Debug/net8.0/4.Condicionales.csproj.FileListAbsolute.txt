@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\bin\Debug\net8.0\4.Condicionales.exe
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\bin\Debug\net8.0\4.Condicionales.deps.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\bin\Debug\net8.0\4.Condicionales.runtimeconfig.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\bin\Debug\net8.0\4.Condicionales.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\bin\Debug\net8.0\4.Condicionales.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.AssemblyInfo.cs
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.sourcelink.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\refint\4.Condicionales.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\4.Condicionales.genruntimeconfig.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\4.Condicionales\obj\Debug\net8.0\ref\4.Condicionales.dll
