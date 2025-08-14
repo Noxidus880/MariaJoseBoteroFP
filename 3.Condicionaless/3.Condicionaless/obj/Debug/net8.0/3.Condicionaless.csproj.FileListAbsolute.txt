@@ -1,0 +1,14 @@
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\bin\Debug\net8.0\3.Condicionaless.exe
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\bin\Debug\net8.0\3.Condicionaless.deps.json
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\bin\Debug\net8.0\3.Condicionaless.runtimeconfig.json
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\bin\Debug\net8.0\3.Condicionaless.dll
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\bin\Debug\net8.0\3.Condicionaless.pdb
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.AssemblyInfoInputs.cache
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.AssemblyInfo.cs
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.csproj.CoreCompileInputs.cache
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.dll
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\refint\3.Condicionaless.dll
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.pdb
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\3.Condicionaless.genruntimeconfig.cache
+C:\Users\Maria Jose\source\repos\3.Condicionaless\3.Condicionaless\obj\Debug\net8.0\ref\3.Condicionaless.dll
