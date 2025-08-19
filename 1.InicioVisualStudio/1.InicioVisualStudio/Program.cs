@@ -1,4 +1,4 @@
-﻿namespace _1.InicioVisualStudio
+﻿    namespace _1.InicioVisualStudio
 {
     internal class Program
     {

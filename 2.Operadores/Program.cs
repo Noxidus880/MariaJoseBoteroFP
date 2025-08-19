@@ -69,7 +69,10 @@
             Console.WriteLine(exp8);                                                                                                                                                                            
             bool exp9 = 100 != 102;
             Console.WriteLine(exp9);
-
+            bool exp10 = 5 > 4 && 2 < 3;
+            Console.WriteLine(exp10);
+            bool exp11 = 5 > 4 || !exp4;
+            Console.WriteLine(exp11);
                 
         }
     }
