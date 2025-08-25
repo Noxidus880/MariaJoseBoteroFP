@@ -9,7 +9,7 @@ namespace _8.TallerParcial1
             
 
             /*Crear un algoritmo que permita leer tres valores y almacenarlos en las 
-             * variables numero1, 
+              variables numero1, 
     numero2, numero3 respectivamente. El algoritmo debe comprobar si los números son 
 diferentes, si es así, imprimir cual es el número mayor, además ordenar y mostrar en 
 pantalla los números de menor a mayor. 
@@ -33,7 +33,7 @@ ingresar números diferentes. */
             Console.WriteLine("Ingrese el número 3:");
             num3 = Int32.Parse(Console.ReadLine());
 
-            if (num1 > num2 || num1 > num3) 
+            if (num1 > num2 || num1 > num3)
             {
                 Console.WriteLine($"El número mayor es {num1}");
             }
@@ -42,14 +42,28 @@ ingresar números diferentes. */
                 Console.WriteLine($"El número menor es {num1}");
             }
 
-            if (num2 > num1 || num2 > num3)
-            {
+               if (num2 > num1 || num2 > num3)
+               {
                 Console.WriteLine($"El número mayor es {num2}");
-            }
-            else (num2< num1 || num2< num3)
-              {
+               }
+               else (num2 < num1 || num2 < num3)
+               {
+                Console.WriteLine($"El número menor es {num2}");
+               }
+                 if (num3 > num1 || num3 > num2)
+                 {
+                  Console.WriteLine($"El número mayor es {num3}");
+                 }
+                  else (num3 < num1 || num3 < num2)
+                  {
+                   Console.WriteLine($"El número menor es {num3}");
+                  }
 
-                }
+            
+
+
+
+
 
 
 
