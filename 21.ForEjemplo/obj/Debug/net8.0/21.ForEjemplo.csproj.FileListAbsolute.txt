@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\bin\Debug\net8.0\21.ForEjemplo.exe
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\bin\Debug\net8.0\21.ForEjemplo.deps.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\bin\Debug\net8.0\21.ForEjemplo.runtimeconfig.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\bin\Debug\net8.0\21.ForEjemplo.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\bin\Debug\net8.0\21.ForEjemplo.pdb
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.sourcelink.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\refint\21.ForEjemplo.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.pdb
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\21.ForEjemplo.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\21.ForEjemplo\obj\Debug\net8.0\ref\21.ForEjemplo.dll
