@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\bin\Debug\net8.0\TallerParcial2.exe
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\bin\Debug\net8.0\TallerParcial2.deps.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\bin\Debug\net8.0\TallerParcial2.runtimeconfig.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\bin\Debug\net8.0\TallerParcial2.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\bin\Debug\net8.0\TallerParcial2.pdb
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.sourcelink.json
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\refint\TallerParcial2.dll
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.pdb
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\TallerParcial2.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\ProgramacionMJB\MariaJoseBoteroFP\TallerParcial2\obj\Debug\net8.0\ref\TallerParcial2.dll
