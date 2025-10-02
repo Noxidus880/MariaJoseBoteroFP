@@ -12,18 +12,30 @@
             
             
             int num = rnd.Next(10, 35);
-            for (int i = rnd.Next(10,35); i<35 ; i++)
+            for (int i = 0; i< 10 ; i++)
             {
-                for(int j = rnd.Next(10,35);j<35 ; j++)
+                for(int j = 0; j<20 ; j++)
                 {
-                    suma = numeros[10,20] + num
-                    Console.WriteLine($"La suma de la columna {j} es {suma}");
+                    numeros[i, j] = rnd.Next(0, 10);
+                    Console.Write(numeros[i, j] + " ");
 
                 }
-
+                Console.WriteLine();
 
             }
-            
+
+            for(int j=0; j<20; j++)
+            {
+                suma = 0;
+                for (int i = 0;i< 10; i++)
+                {
+                    suma = numeros[i, j] + suma;
+                   
+                }
+                Console.WriteLine( suma );
+                
+            }
+           
           
 
             

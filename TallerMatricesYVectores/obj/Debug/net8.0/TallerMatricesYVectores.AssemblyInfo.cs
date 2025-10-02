@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerMatricesYVectores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7263ce2ac2a4363a28f84f311400ac8daf5c6022")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f85edcbe416abd4469391e15a5dc9d1e7921792")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerMatricesYVectores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerMatricesYVectores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
