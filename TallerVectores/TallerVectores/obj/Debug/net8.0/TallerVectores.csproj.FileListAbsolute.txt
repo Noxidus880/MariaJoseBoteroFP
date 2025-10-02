@@ -1,0 +1,15 @@
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\bin\Debug\net8.0\TallerVectores.exe
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\bin\Debug\net8.0\TallerVectores.deps.json
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\bin\Debug\net8.0\TallerVectores.runtimeconfig.json
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\bin\Debug\net8.0\TallerVectores.dll
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\bin\Debug\net8.0\TallerVectores.pdb
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfo.cs
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.sourcelink.json
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.dll
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\refint\TallerVectores.dll
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.pdb
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\TallerVectores.genruntimeconfig.cache
+C:\Users\ESTUDIANTE\Documents\FPMJB\MariaJoseBoteroFP\TallerVectores\TallerVectores\obj\Debug\net8.0\ref\TallerVectores.dll
