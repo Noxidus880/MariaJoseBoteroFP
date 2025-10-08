@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\bin\Debug\net8.0\Parcial3MatricesYVectores.exe
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\bin\Debug\net8.0\Parcial3MatricesYVectores.deps.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\bin\Debug\net8.0\Parcial3MatricesYVectores.runtimeconfig.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\bin\Debug\net8.0\Parcial3MatricesYVectores.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\bin\Debug\net8.0\Parcial3MatricesYVectores.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.AssemblyInfo.cs
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.sourcelink.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\refint\Parcial3MatricesYVectores.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\Parcial3MatricesYVectores.genruntimeconfig.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\Parcial3MatricesYVectores\obj\Debug\net8.0\ref\Parcial3MatricesYVectores.dll
