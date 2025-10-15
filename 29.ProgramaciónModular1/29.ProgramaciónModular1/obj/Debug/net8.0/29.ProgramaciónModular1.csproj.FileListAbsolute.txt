@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\bin\Debug\net8.0\29.ProgramaciónModular1.exe
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\bin\Debug\net8.0\29.ProgramaciónModular1.deps.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\bin\Debug\net8.0\29.ProgramaciónModular1.runtimeconfig.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\bin\Debug\net8.0\29.ProgramaciónModular1.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\bin\Debug\net8.0\29.ProgramaciónModular1.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.AssemblyInfo.cs
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.sourcelink.json
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\refint\29.ProgramaciónModular1.dll
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.pdb
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\29.ProgramaciónModular1.genruntimeconfig.cache
+C:\Users\B09S112est\Documents\FundamentosMJB\MariaJoseBoteroFP\29.ProgramaciónModular1\29.ProgramaciónModular1\obj\Debug\net8.0\ref\29.ProgramaciónModular1.dll
